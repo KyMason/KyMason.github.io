@@ -1,0 +1,32 @@
+body{
+background-color: PaleGoldenRod;
+}
+
+h1 {
+color: SandyBrown;
+text-align: center;
+}
+
+h2 {
+color: SandyBrown;
+text-align: center;
+
+}
+
+p {
+color: DarkRed;
+text-align:left;
+background-color: SandyBrown;
+  width: 100%;
+  border: 15px;
+border-color: LightYellow;
+border-style: dotted;
+  padding: 50px;
+  margin: 0px;
+font-size: 1.2em;
+}
+
+button{
+background-color: LightYellow;
+width: 33.3%;
+}

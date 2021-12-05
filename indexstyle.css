@@ -22,8 +22,9 @@ margin: auto;
 width: 80%
 }
 
-.contactSection{
-background-color:yellow;
+iframe{
+display:block;
 margin: auto;
 width: 80%
+
 }

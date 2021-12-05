@@ -1,32 +1,29 @@
-body{
-background-color: PaleGoldenRod;
-}
-
-h1 {
-color: SandyBrown;
+.headerSection{
+background-color: salmon;
 text-align: center;
 }
 
-h2 {
-color: SandyBrown;
-text-align: center;
+.mainSection{
 
+background-color: lightblue;
+margin: auto;
+width: 90%
 }
 
-p {
-color: DarkRed;
-text-align:left;
-background-color: SandyBrown;
-  width: 100%;
-  border: 15px;
-border-color: LightYellow;
-border-style: dotted;
-  padding: 50px;
-  margin: 0px;
-font-size: 1.2em;
+.aboutSection {
+background-color: green;
+margin: auto;
+width: 80%
 }
 
-button{
-background-color: LightYellow;
-width: 33.3%;
+.worksSection {
+background-color: red;
+margin: auto;
+width: 80%
+}
+
+.contactSection{
+background-color:yellow;
+margin: auto;
+width: 80%
 }

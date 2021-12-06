@@ -20,18 +20,68 @@ margin: 0;
 .aboutSection {
 background-color: cyan;
 margin: auto;
-width: 80%
+width: 80%;
 }
 
 .worksSection {
 background-color: lightblue;
 margin: auto;
-width: 80%
+width: 80%;
+}
+
+
+.worksrow1{
+display: grid;
+grid-template-columns: 1fr 2fr 3fr;
+grid-gap:3%;
+}
+
+.worksrow2{
+display: grid;
+grid-template-columns: 1fr 2fr 3fr;
+grid-gap:3%;
+margin-top:20px;
+}
+
+.works1 {
+height:100px;
+width:30%;
+Background-color: red;
+}
+
+.works2 {
+height:100px;
+width:30%;
+Background-color: red;
+}
+
+.works3 {
+height:100px;
+width:30%;
+Background-color: red;
+}
+
+.works4 {
+width:30%;
+height:100px;
+Background-color: red;
+}
+
+.works5 {
+width:30%;
+height:100px;
+Background-color: red;
+}
+
+.works6 {
+width:30%;
+height:100px;
+Background-color: red;
 }
 
 iframe{
 display:block;
 margin: auto;
-width: 80%
+width: 80%;
 
 }

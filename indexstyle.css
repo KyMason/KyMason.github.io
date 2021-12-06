@@ -1,23 +1,30 @@
+
+h1,h2,p{
+margin:0;
+}
+
 .headerSection{
 background-color: salmon;
 text-align: center;
+margin: auto;
+width:90%;
 }
 
-.mainSection{
 
-background-color: lightblue;
-margin: auto;
-width: 90%
+.mainSection{
+background-color: white;
+margin: 0;
+
 }
 
 .aboutSection {
-background-color: green;
+background-color: cyan;
 margin: auto;
 width: 80%
 }
 
 .worksSection {
-background-color: red;
+background-color: lightblue;
 margin: auto;
 width: 80%
 }

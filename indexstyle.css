@@ -1,40 +1,28 @@
 body{
-background-image: url("plantsforwebsite.jpg");
-
+background-color: #c2f0c2;
 }
 
 
-h1,h2,p{
-margin:0;
-}
 
 .headerSection{
-background-color: rgba(0, 255, 0, 0.8);
+background-color: lightgreen;
 text-align: center;
-margin: auto;
-width:90%;
-
+margin:auto;
+width:100%;
+border-style:solid;
+background-image:;
+margin-bottom:20px;
 }
 
 
-.mainSection{
-
-margin: 0;
-
-}
-
-.aboutSection {
-background-color: rgba(0, 255, 100, 0.8);
-margin: auto;
-width: 80%;
-}
 
 .worksSection {
-background-color: rgba(0, 255, 200, 0.8);
+border-style:solid;
 margin: auto;
 width: 80%;
+background-color:lightgreen;
+text-align:center;
 }
-
 
 .worksrow1{
 display: grid;
@@ -87,9 +75,10 @@ height:100%;
 Background-color: lightblue;
 }
 
-iframe{
-display:block;
+.contactSection{
+border-style:solid;
 margin: auto;
 width: 80%;
-
+background-color:lightgreen;
+text-align:center;
 }

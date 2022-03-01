@@ -43,6 +43,7 @@ grid-template-columns: repeat(3, minmax(0, 1fr));
 height:100%;
 width:100%;
 Background-color: lightblue;
+
 }
 
 .works2 {
@@ -82,3 +83,9 @@ width: 80%;
 background-color:lightgreen;
 text-align:center;
 }
+
+.HeadProj{
+width:80%;
+height:10%;
+}
+

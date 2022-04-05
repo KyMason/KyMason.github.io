@@ -1,23 +1,22 @@
 body{
 background-color: #c2f0c2;
+margin:0;
+padding:0;
 }
-
-
 
 .headerSection{
 background-color: lightgreen;
 text-align: center;
-margin:auto;
 width:100%;
 border-style:solid;
+border-color:lightgreen;
 background-image:;
-margin-bottom:20px;
+margin-bottom:0px;
 }
-
-
 
 .worksSection {
 border-style:solid;
+border-color:lightgreen;
 margin: auto;
 width: 80%;
 background-color:lightgreen;
@@ -46,34 +45,26 @@ Background-color: lightblue;
 
 }
 
-.works2 {
+.web1 {
 height:100%;
 width:100%;
-Background-color: lightblue;
+Background-color: blue;
+
 }
 
-.works3 {
+.script1 {
 height:100%;
 width:100%;
-Background-color: lightblue;
+Background-color: blue;
+
 }
 
-.works4 {
-width:100%;
-height:100%;
-Background-color: lightblue;
-}
 
-.works5 {
-width:100%;
+.game1 {
 height:100%;
-Background-color: lightblue;
-}
+width:100%;
+Background-color: blue;
 
-.works6 {
-width:100%;
-height:100%;
-Background-color: lightblue;
 }
 
 .contactSection{

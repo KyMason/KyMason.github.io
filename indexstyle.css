@@ -1,25 +1,25 @@
 body{
-background-color: #c2f0c2;
+background-color: #white;
 margin:0;
 padding:0;
 }
 
 .headerSection{
-background-color: lightgreen;
+background-color: white;
 text-align: center;
 width:100%;
 border-style:solid;
-border-color:lightgreen;
+border-color:black;
 background-image:;
 margin-bottom:0px;
 }
 
 .worksSection {
 border-style:solid;
-border-color:lightgreen;
+border-color:black;
 margin: auto;
 width: 80%;
-background-color:lightgreen;
+background-color:white;
 text-align:center;
 }
 
@@ -41,37 +41,18 @@ grid-template-columns: repeat(3, minmax(0, 1fr));
 .works1 {
 height:100%;
 width:100%;
-Background-color: lightblue;
-
-}
-
-.web1 {
-height:100%;
-width:100%;
-Background-color: blue;
-
-}
-
-.script1 {
-height:100%;
-width:100%;
-Background-color: blue;
+Background-color: white;
 
 }
 
 
-.game1 {
-height:100%;
-width:100%;
-Background-color: blue;
-
-}
 
 .contactSection{
 border-style:solid;
+border-color:black;
 margin: auto;
 width: 80%;
-background-color:lightgreen;
+background-color:white;
 text-align:center;
 }
 
